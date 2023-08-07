@@ -5,6 +5,9 @@ LinerChart Compose with powreful Animation
 
 look this is powerful Compose Views :
 
+https://github.com/RankUp-Hassen/LinerChart/assets/140910656/1af3278a-84da-44c6-bf7d-1c90beee9db3
+
+
 
 To get a Git project into your build:
 
