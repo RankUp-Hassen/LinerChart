@@ -27,3 +27,57 @@ Add it in your root build.gradle at the end of repositories:
 	dependencies {
 	        implementation 'com.github.RankUp-Hassen:LinerChart:Tag'
 	}
+
+
+ if implementation don't working u can Download Releases from here :
+https://github.com/RankUp-Hassen/LinerChart/archive/refs/tags/1.1.1.zip
+
+
+# Step 3: 
+   # LinerChart Code:
+   	LineChart(
+                data = data,
+                textColor = Color.Blue.hashCode(),
+                fontSize = 10,
+                graphColor = Color.Blue,
+                strokeColor = Color.Blue,
+                strokeWidth = 1.dp,
+                horizontalSymbol = "A",
+                verticalSymbol = "B",
+                typeFace = Typeface.DEFAULT_BOLD,
+                width = 400.dp,
+                height = 300.dp,
+                padding = 10.dp,
+                verticalAnimation = va,
+                horizontalAnimation = ha,
+                animationDuration = 5000,
+
+
+        )
+
+   # QuadLineChart Code:
+   
+   	QuadLineChart(
+                data = data,
+                textColor = Color.Red.hashCode(),
+                fontSize = 10,
+                graphColor = Color.Red,
+                strokeColor = Color.Red,
+                strokeWidth = 1.dp,
+                horizontalSymbol = "A",
+                verticalSymbol = "B",
+                typeFace = Typeface.DEFAULT_BOLD,
+                width = 400.dp,
+                height = 300.dp,
+                padding = 10.dp,
+                verticalAnimation = va,
+                horizontalAnimation = ha,
+                animationDuration = 5000,
+
+
+                )
+   	
+
+   
+
+
