@@ -1,6 +1,8 @@
 # LinerChart
 LinerChart Compose with powreful Animation 
-[![](https://jitpack.io/v/RankUp-Hassen/LinerChart.svg)](https://jitpack.io/#RankUp-Hassen/LinerChart)
+
+
+# [![](https://jitpack.io/v/RankUp-Hassen/LinerChart.svg)](https://jitpack.io/#RankUp-Hassen/LinerChart)
 
 
 look this is powerful Compose Views :
